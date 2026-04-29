@@ -1,2 +1,2 @@
-# neuron_simulations
-A repository of my work on neuronal simulations
+#POSE - Parameterized Optical Spiking Engine
+An exploratory project, connecting optogenetics and network simulations.
