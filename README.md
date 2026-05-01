@@ -1,2 +1,2 @@
-# POSE - Parameterized Optical Spiking Engine
+# POSE - Parameterized Open Spiking Engine
 An exploratory project, connecting optogenetics and network simulations.
